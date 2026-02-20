@@ -12,4 +12,4 @@ Wiki interactiva de una campaña de Dungeons & Dragons.
 - CSS
 
 ## Ver sitio
-[GitHub Pages link]
+https://generalbyte.github.io/dnd-wiki/
